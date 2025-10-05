@@ -180,11 +180,11 @@ LEFT JOIN attrs at USING (user_id);
 
 ## 📄 License
 
-MIT — используй и адаптируй свободно.
+MIT 
 
 ---
 
-### `requirements.txt` (пример)
+### `requirements.txt` 
 
 ```
 pandas>=1.5
