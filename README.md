@@ -13,8 +13,6 @@
 
 - `ab_test_mock_data.csv` — **мок-датасет** с реалистичными полями (для тренировки).
 - `ab_test_template.ipynb` — **Jupyter-ноутбук**: пошаговый анализ от загрузки до вывода.
-- `ab_analysis_template.py` — **CLI-скрипт**: CR, Δ, 95% CI, p-value, CUPED, сегменты.
-- `ab_sanity_check.py` — **sanity-проверки** (сплит, утечки, временной баланс, ковариаты) + отчёт в Markdown.
 - `README.md` — этот файл.
 
 ---
